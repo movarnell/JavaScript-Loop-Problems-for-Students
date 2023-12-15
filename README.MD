@@ -1,0 +1,3 @@
+Included in this repository is a list of 20 practice loop problems with the answers to how to do them. The problems are all using Javascript and at times multiple solutions are listed, these are intended only to be practice and you should try to solve them on your own before looking at the answers.
+If you would like to view the answers you can loop in the answers.js file. If you would like to run the code you can use the node command in your terminal to run the file. For example: node problems.js
+In addition to this method you can also create an HTML file and link the problems.js file to it and run it in your browser. 
